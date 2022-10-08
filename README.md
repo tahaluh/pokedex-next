@@ -10,7 +10,7 @@
 
 > A aplicação funciona como uma pokedex, uma enciclopédia de pokemons
 
-<h4 align="center"><a href="https://tahaluh-crud-todo-list.netlify.app" target="_blank">Clique para visitar o projeto</a></h4>
+<h4 align="center"><a href="#" target="_blank">Clique para visitar o projeto</a></h4>
 
 ---
 # 💼 Tecnologias Utilizadas
