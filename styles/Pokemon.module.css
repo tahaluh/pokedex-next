@@ -5,11 +5,12 @@
 .title {
     font-size: 2.5em;
     text-transform: capitalize;
-    background-color: #333;
+    background-color: rgb(0, 0, 0);
     color: #fff;
     padding: 0.3em;
     margin: 0.8em auto;
     width: 300px;
+    border-radius: 2em;
 }
 
 .pokemon_container h3 {

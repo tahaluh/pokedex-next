@@ -44,7 +44,7 @@ export default function Pokemon({ pokemon }) {
 
   return (
     <div className={styles.pokemon_container}>
-      <h1 className={styles.title}>{pokemon.name}</h1>
+      <h1 className={`${styles.title} ${styles['type_' + pokemon.types[0].type.name]}`}>{pokemon.name}</h1>
       <Image
         src={`https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/${pokemon.id}.png`}
         width="300"
